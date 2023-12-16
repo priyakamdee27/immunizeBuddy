@@ -1,0 +1,72 @@
+nav {
+  background-color: rgb(255, 245, 192) !important;
+}
+
+.navbar-nav {
+  margin-left: 30%;
+}
+.container-fluid {
+  display: flex;
+}
+
+.container-fluid .image img {
+  width: 650px;
+}
+.container-fluid .content {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.container-fluid .content p {
+  font-size: 2rem;
+}
+.container-fluid .content h1 {
+  font-size: 3rem;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.container .store {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.container .store .card {
+  margin: 20px;
+  width: 300px;
+}
+.carousel-inner .carousel-item img {
+  /* margin-top: 10px; */
+  height: 500px;
+  padding: 20px;
+  margin-right: 30px;
+}
+
+.container .store .card img {
+  height: 250px;
+  padding: 10px;
+}
+
+.dr .container .drr {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.dr .container .drr .dr2 {
+  width: 70%;
+}
+
+.dr .container .drr .dr2 {
+  width: 70%;
+}
+.dr .container .card {
+  /* align-items: center; */
+  justify-content: space-evenly;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.dr .container .card img {
+  width: 300px;
+  height: 250px;
+}
